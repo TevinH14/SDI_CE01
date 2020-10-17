@@ -1,0 +1,7 @@
+/Users/tevinhamilton/Desktop/SDI_CE01/HamiltonTevin_Lab1/HamiltonTevin_Lab1/bin/Debug/HamiltonTevin_Lab1.exe.config
+/Users/tevinhamilton/Desktop/SDI_CE01/HamiltonTevin_Lab1/HamiltonTevin_Lab1/bin/Debug/HamiltonTevin_Lab1.exe
+/Users/tevinhamilton/Desktop/SDI_CE01/HamiltonTevin_Lab1/HamiltonTevin_Lab1/obj/Debug/HamiltonTevin_Lab1.csprojAssemblyReference.cache
+/Users/tevinhamilton/Desktop/SDI_CE01/HamiltonTevin_Lab1/HamiltonTevin_Lab1/obj/Debug/HamiltonTevin_Lab1.csproj.CoreCompileInputs.cache
+/Users/tevinhamilton/Desktop/SDI_CE01/HamiltonTevin_Lab1/HamiltonTevin_Lab1/bin/Debug/HamiltonTevin_Lab1.pdb
+/Users/tevinhamilton/Desktop/SDI_CE01/HamiltonTevin_Lab1/HamiltonTevin_Lab1/obj/Debug/HamiltonTevin_Lab1.exe
+/Users/tevinhamilton/Desktop/SDI_CE01/HamiltonTevin_Lab1/HamiltonTevin_Lab1/obj/Debug/HamiltonTevin_Lab1.pdb
